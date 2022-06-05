@@ -11,7 +11,7 @@
     }
 
 ```
-## 2. wrap xml code in <layout></layout> tags 
+## 2. wrap xml code in ``` <layout></layout> ``` tags 
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
