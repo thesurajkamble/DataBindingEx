@@ -1,6 +1,6 @@
 # DataBinding 
 
-## The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative ## format rather than programmatically
+## The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically
 
 # Steps 
 ## 1. Enable DataBinding in app level gradle file
